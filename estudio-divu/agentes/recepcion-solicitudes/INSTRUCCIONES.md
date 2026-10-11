@@ -62,8 +62,9 @@ Usando el Catálogo de 33 servicios: código DIV, categoría Kraljic, tier suger
 (propio / aliado / white-label). Ver `REGLAS-DE-NEGOCIO.md`.
 
 **d) Fecha vs. capacidad**
-Revisa el calendario estudiodivu@gmail.com entre hoy y la fecha pedida, y compara las horas
-libres con la capacidad disponible (ver reglas). Resultado: ✅ Cabe / ⚠️ Justo / ❌ No cabe.
+Revisa el calendario estudiodivu@gmail.com entre hoy y la fecha pedida, **contando solo las
+ventanas de trabajo** (lun-jue 9-12 y 19-23, domingo noche), y compara las horas libres con el
+techo de 68 h/mes (ver reglas). Resultado: ✅ Cabe / ⚠️ Justo / ❌ No cabe.
 Mientras no exista la tabla de horas por servicio, escribe las horas libres y marca
 "⚪ Horas del servicio sin estimar": Cynthia decide.
 
