@@ -15,6 +15,14 @@ El nombre une **"Di"** (diseño, dirección, dibujo) con **"vú"** (*déjà vu*)
 - **Sedes:** Caracas, Venezuela, y Pontevedra, España.
 - **Etapa:** por ahora estamos en **fase de creación**.
 
+## Idioma
+
+Los textos se adaptan al **español del país del cliente**:
+
+- **Venezuela:** español venezolano (por ejemplo, "ustedes").
+- **España:** español de España (por ejemplo, "vosotros").
+- Si no está claro de qué país es el cliente, preguntar antes de escribir.
+
 ## Servicios
 
 - Consultoría y estrategia transmedia
