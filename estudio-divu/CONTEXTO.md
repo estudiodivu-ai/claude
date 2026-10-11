@@ -10,6 +10,11 @@ Estudio Divú es un **estudio multimedia** que ordena y ejecuta servicios creati
 
 El nombre une **"Di"** (diseño, dirección, dibujo) con **"vú"** (*déjà vu*): trabajamos con **insights**, observando la calle y a las personas para devolver **estrategias con personalidad**.
 
+## Ubicación y etapa
+
+- **Sedes:** Caracas, Venezuela, y Pontevedra, España.
+- **Etapa:** por ahora estamos en **fase de creación**.
+
 ## Servicios
 
 - Consultoría y estrategia transmedia
