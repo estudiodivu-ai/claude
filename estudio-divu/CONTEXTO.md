@@ -6,6 +6,8 @@
 
 Estudio Divú es un **estudio multimedia** que ordena y ejecuta servicios creativos.
 
+**Cynthia** es la dueña y operadora única del estudio.
+
 ### El nombre
 
 El nombre une **"Di"** (diseño, dirección, dibujo) con **"vú"** (*déjà vu*): trabajamos con **insights**, observando la calle y a las personas para devolver **estrategias con personalidad**.
@@ -14,6 +16,10 @@ El nombre une **"Di"** (diseño, dirección, dibujo) con **"vú"** (*déjà vu*)
 
 - **Sedes:** Caracas, Venezuela, y Pontevedra, España.
 - **Etapa:** por ahora estamos en **fase de creación**.
+
+## Tono
+
+Cercano, creativo, con humor sutil, pero claro.
 
 ## Idioma
 
@@ -59,3 +65,7 @@ Agencias que necesitan un **aliado de confianza para entregar a tiempo**.
 
 - **Retainers mensuales** y **proyectos high-ticket**.
 - Siempre **cobramos por entregable, no por horas**.
+
+## Agentes
+
+- `agentes/recepcion-solicitudes/`: recibe y ordena las solicitudes del formulario web.
