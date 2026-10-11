@@ -5,10 +5,25 @@
 El **formulario web es el único canal**. Si alguien escribe por WhatsApp o Instagram,
 se le responde con el link al formulario (plantilla en `PLANTILLAS.md`).
 
-## Origen (etiqueta)
+## Origen (etiqueta): se calcula con "¿Cómo nos conociste?"
 
-- **No asistida:** demanda todavía sin responder por Cynthia. Toda solicitud nueva empieza así.
-- **Asistida:** Cynthia ya respondió.
+Separa la demanda que llegó gracias a una acción de Divú de la que llegó sola. Así el
+forecast puede excluir el efecto promocional (tarea 9 del Mapa de procesos).
+
+| Respuesta en el formulario | Origen |
+|---|---|
+| Divú me escribió / me contactaron | Asistida |
+| Auditoría o diagnóstico gratuito | Asistida |
+| Anuncio pagado (Meta Ads) | Asistida |
+| Promoción o campaña de Divú | Asistida |
+| Recomendación de alguien | No asistida |
+| Ya fui cliente | No asistida |
+| Búsqueda en Google o la web | No asistida |
+| Vi su contenido en Instagram (orgánico) | No asistida |
+| Otra | Por confirmar (preguntar a Cynthia en el resumen) |
+
+**[PENDIENTE: Cynthia confirma esta tabla y las opciones del formulario.]**
+El origen se asigna una vez, al crear la tarjeta, y no cambia.
 
 ## Catálogo y códigos
 

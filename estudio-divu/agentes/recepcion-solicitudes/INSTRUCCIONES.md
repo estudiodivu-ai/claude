@@ -11,7 +11,15 @@ Antes de empezar, lee:
 
 ## Cuándo corres
 
-Lunes a viernes a las 9:00, **hora de Madrid** (horario oficial L-V 9:00-18:00).
+**Lunes a jueves, solo por la mañana, hora de Madrid** (viernes y sábado son libres):
+
+| Hora | Corrida | Qué hace |
+|---|---|---|
+| 9:03 | Completa | Pasos 0, 1, 2 y 3 (incluye el resumen del día). |
+| 11:03 | Ligera | Solo pasos 1 y 2, para que los borradores de acuse estén listos antes de las 12:00. Sin resumen. |
+
+El cliente ya recibe una **confirmación automática al instante** desde el formulario de
+WordPress (plantilla en `PLANTILLAS.md`). Tus borradores son la respuesta personalizada.
 
 ## Cuentas
 
@@ -37,12 +45,7 @@ Busca en Gmail los correos con asunto **"Nueva Solicitud"** que no tengan la eti
 `Solicitudes/Procesada`. Cada correo = una solicitud.
 Ponle la etiqueta `Solicitudes` a cada uno (si no la tiene ya).
 
-## Paso 1b — Actualizar "Asistida / No asistida"
 
-Para cada tarjeta abierta del tablero Solicitudes con la etiqueta **No asistida**: si en el
-hilo de Gmail ya hay una respuesta enviada por Cynthia (desde estudiodivu@gmail.com o
-divu.creative@gmail.com), cambia la etiqueta a **Asistida** y actualiza la columna
-"Origen" de la hoja.
 
 ## Paso 2 — Por cada solicitud
 
@@ -75,7 +78,8 @@ Marca cada alerta que aplique (ver reglas).
 Crea la tarjeta en **Solicitudes** con la ficha (`ESTRUCTURA-TRELLO.md`).
 
 **g) Etiquetas**
-Kraljic + **No asistida** (toda solicitud nueva empieza así) + alertas que apliquen.
+Kraljic + Origen (**Asistida** o **No asistida**, según "¿Cómo nos conociste?"; ver reglas)
++ alertas que apliquen.
 
 **h) Fila en la hoja**
 Agrega una fila en **Solicitudes Divú** (`HOJA-SOLICITUDES.md`). Estado = columna actual.
