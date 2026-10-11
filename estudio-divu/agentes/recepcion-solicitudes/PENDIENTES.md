@@ -1,24 +1,24 @@
 # Pendientes antes de encender el agente
 
-## Bloqueos
+## Resuelto
 
-- [ ] **Google Sheets / Drive no está conectado.** Sin eso no se puede crear la hoja (h),
-      precargar el brief (i) ni actualizar filas (j). Hay que conectar Google Drive.
+- [x] Zona horaria: Madrid. Cuenta: estudiodivu@gmail.com.
+- [x] Correos del formulario: asunto "Nueva Solicitud" → etiqueta "Solicitudes".
+- [x] Asistida = ya respondida por Cynthia · No asistida = sin responder.
+- [x] El formulario es el único canal; los DMs se responden con el link.
+- [x] Google Drive conectado (cuenta estudiodivu@gmail.com).
 
 ## Datos que faltan
 
-- [ ] Remitente o etiqueta de Gmail del formulario. (Hoy no existe ninguna etiqueta.)
-- [ ] Ruta del Formato de Briefing Divú.
-- [ ] Ruta del Catálogo de 33 servicios + Matriz de Kraljic.
-- [ ] Ruta del Decálogo del Cliente.
+- [ ] Catálogo de 33 servicios + Matriz de Kraljic (en Drive, carpeta "Estudio Divú").
+- [ ] Formato de Briefing Divú (en Drive, como Google Doc).
+- [ ] Decálogo del Cliente (en Drive).
+- [ ] Horas estimadas por servicio (Cynthia las calcula).
+- [ ] Tiers de servicios que no son Rebranding ni Lanzamiento (Cynthia los actualiza).
+- [ ] Link del formulario (para la respuesta a DMs).
 - [ ] Solicitud de prueba.
 
-## Por confirmar
+## Por decidir
 
-- [ ] Zona horaria de las 9:00 (Caracas o Madrid).
-- [ ] Acuse en menos de 24 h hábiles.
-- [ ] El formulario es el único canal; los DMs se responden con el link.
-- [ ] Qué significa "Asistida" / "No asistida".
-- [ ] Horas estimadas por servicio.
-- [ ] Tier para servicios que no son Rebranding ni Lanzamiento.
+- [ ] Cómo cumplir el acuse en menos de 3 h (ver opciones en la conversación).
 - [ ] Automatizaciones de Trello: revisar el consumo el primer mes.

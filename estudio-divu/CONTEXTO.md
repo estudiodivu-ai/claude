@@ -15,6 +15,9 @@ El nombre une **"Di"** (diseño, dirección, dibujo) con **"vú"** (*déjà vu*)
 ## Ubicación y etapa
 
 - **Sedes:** Caracas, Venezuela, y Pontevedra, España.
+- **Cynthia reside en Pontevedra** y trabaja con clientes de Venezuela y España.
+- **Zona horaria de trabajo:** España (Europe/Madrid). Todos los horarios ("9:00", "L-V 9:00-18:00") son hora de Madrid.
+- **Cuenta oficial:** estudiodivu@gmail.com (Gmail, Calendar, Drive).
 - **Etapa:** por ahora estamos en **fase de creación**.
 
 ## Tono

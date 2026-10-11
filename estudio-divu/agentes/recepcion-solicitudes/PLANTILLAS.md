@@ -29,7 +29,14 @@ Tono Divú: cercano, creativo, con humor sutil, pero claro. Idioma según el pa�
 **Prohibido en este correo:** precios, montos, tiers, fechas de entrega o de inicio,
 "aceptamos", "confirmado".
 
-## 2. Resumen diario para Cynthia
+## 2. Respuesta a mensajes por WhatsApp o Instagram
+
+> ¡Hola! Gracias por escribirnos 🙌 Para darte una respuesta a tu medida (y no perdernos
+> nada en el camino), te pedimos que nos cuentes tu proyecto en este formulario:
+> {LINK DEL FORMULARIO}
+> Te respondemos en horario de oficina, de lunes a viernes de 9:00 a 18:00 (hora de España).
+
+## 3. Resumen diario para Cynthia
 
 **Asunto:** ☕ Divú · Solicitudes del {fecha}
 

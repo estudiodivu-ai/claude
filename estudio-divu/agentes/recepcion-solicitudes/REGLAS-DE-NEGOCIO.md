@@ -1,5 +1,15 @@
 # Reglas de negocio
 
+## Canal de entrada
+
+El **formulario web es el único canal**. Si alguien escribe por WhatsApp o Instagram,
+se le responde con el link al formulario (plantilla en `PLANTILLAS.md`).
+
+## Origen (etiqueta)
+
+- **No asistida:** demanda todavía sin responder por Cynthia. Toda solicitud nueva empieza así.
+- **Asistida:** Cynthia ya respondió.
+
 ## Catálogo y códigos
 
 33 servicios agrupados en: DIV-ASE · DIV-DIS · DIV-EDI · DIV-AUD · DIV-SND · DIV-PUB · DIV-EVE.
@@ -18,7 +28,8 @@ Fuente: Catálogo de servicios + Matriz de Kraljic → **[RUTA PENDIENTE]**.
 
 - 112 h productivas al mes.
 - 8 h reservadas para revisar propuestas → **104 h disponibles** para producción.
-- Horas estimadas por servicio: **[PENDIENTE: ¿están en el catálogo?]**
+- Horas estimadas por servicio: **pendiente, Cynthia las está calculando.** Mientras tanto
+  el agente solo informa las horas libres del calendario hasta la fecha pedida.
 
 ## Precios
 
@@ -28,6 +39,8 @@ Fuente: Catálogo de servicios + Matriz de Kraljic → **[RUTA PENDIENTE]**.
   - Integral **$1,150**
   - Premium **$1,500**
 - Tier sugerido: el más alto que cubra el presupuesto del cliente sin pasarse.
+- Servicios que **no** son Rebranding ni Lanzamiento: **"Tier por definir"** (Cynthia está
+  actualizando esos precios). En ese caso no se marca la alerta de presupuesto.
 
 ## Alertas
 
@@ -52,7 +65,7 @@ El agente **recomienda** uno con una línea de motivo. No ejecuta ninguno.
 - Sin brief aprobado + 50% de anticipo no arranca nada (anticipo 50/50).
 - Máximo 2 rondas de cambios.
 - Cancelación: 50% / 70%.
-- Canal oficial: L-V 9:00-18:00.
+- Canal oficial: L-V 9:00-18:00 (hora de Madrid).
 - Asesorías: primero se cobra por Google Pay (verificado por Cynthia), luego se agenda
   en Google Calendar con Google Meet.
 

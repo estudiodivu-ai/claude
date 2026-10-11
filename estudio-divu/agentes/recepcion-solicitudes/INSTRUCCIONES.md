@@ -11,7 +11,13 @@ Antes de empezar, lee:
 
 ## Cuándo corres
 
-Lunes a viernes a las 9:00 (horario oficial L-V 9:00-18:00).
+Lunes a viernes a las 9:00, **hora de Madrid** (horario oficial L-V 9:00-18:00).
+
+## Cuentas
+
+- Gmail, Google Calendar y Google Drive: **estudiodivu@gmail.com**.
+- Calendario para revisar capacidad: **estudiodivu@gmail.com**.
+- Trello: cuenta `estudiodivu`.
 
 ## Paso 0 — Revisar decisiones de Cynthia (paso j)
 
@@ -27,8 +33,16 @@ Lunes a viernes a las 9:00 (horario oficial L-V 9:00-18:00).
 
 ## Paso 1 — Buscar solicitudes nuevas
 
-Busca en Gmail los correos del formulario (ver `PENDIENTES.md`: remitente/etiqueta) que
-**no** tengan la etiqueta `Divú/Procesada`. Cada correo = una solicitud.
+Busca en Gmail los correos con asunto **"Nueva Solicitud"** que no tengan la etiqueta
+`Solicitudes/Procesada`. Cada correo = una solicitud.
+Ponle la etiqueta `Solicitudes` a cada uno (si no la tiene ya).
+
+## Paso 1b — Actualizar "Asistida / No asistida"
+
+Para cada tarjeta abierta del tablero Solicitudes con la etiqueta **No asistida**: si en el
+hilo de Gmail ya hay una respuesta enviada por Cynthia (desde estudiodivu@gmail.com o
+divu.creative@gmail.com), cambia la etiqueta a **Asistida** y actualiza la columna
+"Origen" de la hoja.
 
 ## Paso 2 — Por cada solicitud
 
@@ -48,8 +62,10 @@ Usando el Catálogo de 33 servicios: código DIV, categoría Kraljic, tier suger
 (propio / aliado / white-label). Ver `REGLAS-DE-NEGOCIO.md`.
 
 **d) Fecha vs. capacidad**
-Revisa el Google Calendar de Cynthia entre hoy y la fecha pedida, y compara las horas
+Revisa el calendario estudiodivu@gmail.com entre hoy y la fecha pedida, y compara las horas
 libres con la capacidad disponible (ver reglas). Resultado: ✅ Cabe / ⚠️ Justo / ❌ No cabe.
+Mientras no exista la tabla de horas por servicio, escribe las horas libres y marca
+"⚪ Horas del servicio sin estimar": Cynthia decide.
 
 **e) Alertas**
 Marca cada alerta que aplique (ver reglas).
@@ -58,7 +74,7 @@ Marca cada alerta que aplique (ver reglas).
 Crea la tarjeta en **Solicitudes** con la ficha (`ESTRUCTURA-TRELLO.md`).
 
 **g) Etiquetas**
-Kraljic + Origen + alertas que apliquen.
+Kraljic + **No asistida** (toda solicitud nueva empieza así) + alertas que apliquen.
 
 **h) Fila en la hoja**
 Agrega una fila en **Solicitudes Divú** (`HOJA-SOLICITUDES.md`). Estado = columna actual.
@@ -67,7 +83,7 @@ Agrega una fila en **Solicitudes Divú** (`HOJA-SOLICITUDES.md`). Estado = colum
 Haz una copia del Formato de Briefing Divú, rellena lo que el cliente ya respondió,
 deja vacío el resto y pon el link en la tarjeta.
 
-**Al terminar la solicitud:** pon la etiqueta `Divú/Procesada` al correo en Gmail.
+**Al terminar la solicitud:** pon la etiqueta `Solicitudes/Procesada` al correo en Gmail.
 
 ## Paso 3 — Resumen del día
 
