@@ -8,10 +8,7 @@ Estudio Divú es un **estudio multimedia** que ordena y ejecuta servicios creati
 
 ### El nombre
 
-- **"Di"**: diseño, dirección, dibujo.
-- **"vú"**: de *déjà vu*.
-
-Trabajamos con **insights**: observamos la calle y a las personas para devolver **estrategias con personalidad**.
+El nombre une **"Di"** (diseño, dirección, dibujo) con **"vú"** (*déjà vu*): trabajamos con **insights**, observando la calle y a las personas para devolver **estrategias con personalidad**.
 
 ## Servicios
 
@@ -35,7 +32,7 @@ Llegan cuando enfrentan un **hito de negocio**:
 - Campañas de temporada
 - Contenido estancado
 
-### B2C: eventos de vida
+### B2C: por eventos de vida
 
 - Bodas
 - Graduaciones
