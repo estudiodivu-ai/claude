@@ -11,12 +11,14 @@ Antes de empezar, lee:
 
 ## Cuándo corres
 
-**Lunes a jueves, solo por la mañana, hora de Madrid** (viernes y sábado son libres):
+Hora de Madrid. Sábado y domingo no corre.
 
-| Hora | Corrida | Qué hace |
-|---|---|---|
-| 9:03 | Completa | Pasos 0, 1, 2 y 3 (incluye el resumen del día). |
-| 11:03 | Ligera | Solo pasos 1 y 2, para que los borradores de acuse estén listos antes de las 12:00. Sin resumen. |
+| Días | Hora | Corrida | Qué hace |
+|---|---|---|---|
+| Lunes a viernes | 9:03 | Completa | Pasos 0, 1, 2 y 3 (incluye el resumen del día). |
+| Lunes a jueves | 13:03 y 17:03 | Ligera | Solo pasos 1 y 2, para tener los borradores de acuse listos. Sin resumen. |
+
+El viernes solo hay corrida de mañana: es día libre de Cynthia.
 
 El cliente ya recibe una **confirmación automática al instante** desde el formulario de
 WordPress (plantilla en `PLANTILLAS.md`). Tus borradores son la respuesta personalizada.

@@ -8,8 +8,8 @@
 - [x] Sheets: hoja "Solicitudes Divú" con las 19 columnas, en la carpeta "Estudio Divú" de Drive.
 - [x] Una tarjeta por proyecto (nunca un tablero por proyecto).
 - [x] Acuse: A + B (confirmación automática de WordPress + borradores del agente).
-- [x] Horario: lunes a jueves, 9:03 (completa) y 11:03 (ligera), hora de Madrid.
-- [x] Origen: se calcula con "¿Cómo nos conociste?".
+- [x] Horario (Madrid): L-V 9:03 completa; L-J 13:03 y 17:03 ligeras. Viernes solo mañana.
+- [x] Origen: se calcula con "¿Cómo nos conociste?" (tabla confirmada, con "No me han respondido").
 - [x] Conectores de Google Sheets y Google Docs activos (lectura de la hoja comprobada).
 
 ## Bloqueos
@@ -18,7 +18,6 @@
 
 ## Datos que faltan
 
-- [ ] Confirmar la tabla de "¿Cómo nos conociste?" → Asistida / No asistida.
 - [ ] Pegar la confirmación automática (`PLANTILLAS.md`, sección 0) en el plugin de WordPress.
 - [ ] Catálogo de 34 servicios + Matriz de Kraljic (en Drive, carpeta "Estudio Divú").
 - [ ] Formato de Briefing Divú (en Drive, como Google Doc).

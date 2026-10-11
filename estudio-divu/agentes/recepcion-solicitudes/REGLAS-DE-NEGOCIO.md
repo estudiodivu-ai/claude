@@ -20,9 +20,10 @@ forecast puede excluir el efecto promocional (tarea 9 del Mapa de procesos).
 | Ya fui cliente | No asistida |
 | Búsqueda en Google o la web | No asistida |
 | Vi su contenido en Instagram (orgánico) | No asistida |
+| Les escribí antes y no me han respondido | No asistida + aviso "⚠️ Escribió antes sin respuesta" en la ficha y en el resumen |
 | Otra | Por confirmar (preguntar a Cynthia en el resumen) |
 
-**[PENDIENTE: Cynthia confirma esta tabla y las opciones del formulario.]**
+Tabla confirmada por Cynthia (octubre 2026). Las opciones del formulario deben ser exactamente estas.
 El origen se asigna una vez, al crear la tarjeta, y no cambia.
 
 ## Catálogo y códigos
