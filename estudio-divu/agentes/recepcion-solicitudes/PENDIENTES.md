@@ -10,10 +10,10 @@
 - [x] Acuse: A + B (confirmación automática de WordPress + borradores del agente).
 - [x] Horario: lunes a jueves, 9:03 (completa) y 11:03 (ligera), hora de Madrid.
 - [x] Origen: se calcula con "¿Cómo nos conociste?".
+- [x] Conectores de Google Sheets y Google Docs activos (lectura de la hoja comprobada).
 
 ## Bloqueos
 
-- [ ] **Conector de Google Sheets.** Sin él, el agente no puede hacer los pasos h y j.
 - [ ] **Etiquetas de Trello:** crearlas a mano (ver `ESTRUCTURA-TRELLO.md`).
 
 ## Datos que faltan

@@ -1,7 +1,7 @@
 # Hoja "Solicitudes Divú" (Google Sheets)
 
 Hoja: https://docs.google.com/spreadsheets/d/1KvQmkSVQL-F-FHHizq_a96M2js0OZjYOMR7xZ_0eCmI/edit
-(carpeta de Drive "Estudio Divú").
+(carpeta de Drive "Estudio Divú"). Pestaña: `Untitled` (rango `Untitled!A:S`).
 
 Una fila por solicitud. El agente agrega filas y actualiza Decisión/Estado; nunca borra.
 
