@@ -70,11 +70,15 @@ sin notas, correo o WhatsApp con formato raro.
 
 **b) Respuesta personalizada**
 El cliente ya recibió la confirmación automática. Redacta el **acuse personalizado**
-(`PLANTILLAS.md`, sección 1) como **borrador**, respondiendo en el mismo hilo si existe.
+(`PLANTILLAS.md`, sección 1) como **borrador**, como respuesta al hilo
+**"Recibimos tu solicitud · Estudio Divú · {folio}"** (el que recibió el cliente).
+⚠️ **Nunca respondas en el hilo "Nueva Solicitud"**: es interno y el borrador citaría tus
+notas (Kraljic, alertas, origen) al cliente.
 Nunca menciona precios ni fechas confirmadas. Si faltan datos, van en el mismo borrador.
 
 **c) Clasificar**
-El código DIV y el Kraljic ya vienen del formulario (G y H); revísalos solo si la pieza es
+El código DIV y el Kraljic ya vienen del formulario (G y H, según el catálogo de
+`../../formularios/README.md`); revísalos solo si la pieza es
 "Otra cosa". Tú pones el **tier sugerido** (K) y la **ruta** (propio / aliado / white-label).
 Ver `REGLAS-DE-NEGOCIO.md` y `../../formularios/README.md`.
 
@@ -96,7 +100,8 @@ Kraljic + Origen (**Asistida** o **No asistida**, según "¿Cómo nos conociste?
 + alertas que apliquen.
 
 **h) Completar la fila en la hoja**
-La fila ya existe. Completa **solo** K (Tier sugerido), M (¿Cabe en capacidad?), P (Alertas),
+La fila ya existe. Completa **solo** K (Tier sugerido), M (¿Cabe en capacidad?), P (Alertas: **suma** las tuyas a
+las que ya trae el formulario, sin borrarlas),
 R (Estado = columna de Trello) y S (Link a la tarjeta). Nunca cambies lo que llenó el receptor.
 Escribe S **al final**: es la marca de "procesada".
 

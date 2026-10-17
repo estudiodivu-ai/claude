@@ -10,28 +10,30 @@ se le responde con el link al formulario (plantilla en `PLANTILLAS.md`).
 Separa la demanda que llegó gracias a una acción de Divú de la que llegó sola. Así el
 forecast puede excluir el efecto promocional (tarea 9 del Mapa de procesos).
 
+Tabla vigente en los formularios (`CONOCIO` en `brief-diseno-divu.html` y `briefing-divu.html`):
+
 | Respuesta en el formulario | Origen |
 |---|---|
-| Divú me escribió / me contactaron | Asistida |
-| Auditoría o diagnóstico gratuito | Asistida |
-| Anuncio pagado (Meta Ads) | Asistida |
-| Promoción o campaña de Divú | Asistida |
-| Recomendación de alguien | No asistida |
-| Ya fui cliente | No asistida |
-| Búsqueda en Google o la web | No asistida |
-| Vi su contenido en Instagram (orgánico) | No asistida |
-| Les escribí antes y no me han respondido | No asistida + aviso "⚠️ Escribió antes sin respuesta" en la ficha y en el resumen |
-| Otra | Por confirmar (preguntar a Cynthia en el resumen) |
+| Me lo recomendaron | No asistida |
+| Ya trabajé con Divú | No asistida |
+| Instagram de Divú | No asistida |
+| Google o la web | No asistida |
+| Un anuncio de Divú | Asistida |
+| Un evento, taller o feria | Asistida |
+| Una alianza (incubadora, cámara, creador) | Asistida |
+| Otro | Por clasificar → preguntar a Cynthia en el resumen |
 
-Tabla confirmada por Cynthia (octubre 2026). Las opciones del formulario deben ser exactamente estas.
+**[PENDIENTE: Cynthia decide si agrega "Les escribí antes y no me han respondido" (No asistida +
+aviso) a los formularios.]**
+
 El receptor ya llena la columna O. El agente la compara con esta tabla y, si no coincide,
 lo avisa en "Necesito tu ojo" (no la corrige). El origen no cambia después.
 
 ## Catálogo y códigos
 
 34 servicios agrupados en: DIV-ASE · DIV-DIS · DIV-EDI · DIV-AUD · DIV-SND · DIV-PUB · DIV-EVE.
-Fuente: Catálogo de servicios + Matriz de Kraljic → **[PENDIENTE: subir a Drive]**.
-Nuevo: **DIV-DIS-006 Dirección de Arte** (Estratégico, precio por definir → "Tier por definir").
+Fuente: el catálogo `CAT` de `briefing-divu.html` (33 servicios con Kraljic), copiado en `../../formularios/README.md`.
+Nuevo: **DIV-DIS-006 Dirección de Arte** (Estratégico, precio por definir → "Tier por definir"). **Todavía no está en los formularios.**
 
 ## Kraljic → ruta
 
