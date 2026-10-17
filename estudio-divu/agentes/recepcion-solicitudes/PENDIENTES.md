@@ -7,25 +7,30 @@
 - [x] Trello: tableros "Solicitudes" y "Proyectos" con sus 7 columnas cada uno.
 - [x] Sheets: hoja "Solicitudes Divú", pestaña "Solicitudes", 33 columnas (las llena el receptor).
 - [x] Una tarjeta por proyecto (nunca un tablero por proyecto).
-- [x] Acuse: A + B (confirmación automática de WordPress + borradores del agente).
+- [x] Acuse: A + B (confirmación automática del receptor + borradores del agente).
 - [x] Horario (Madrid): L-V 9:03 completa; L-J 13:03 y 17:03 ligeras. Viernes solo mañana.
-- [x] Origen: se calcula con "¿Cómo nos conociste?" (tabla confirmada, con "No me han respondido").
-- [x] Conectores de Google Sheets y Google Docs activos (lectura de la hoja comprobada).
+- [x] Origen: se calcula con "¿Cómo nos conociste?" (tabla vigente en los formularios).
+- [x] Conectores de Google Sheets y Google Docs activos.
+- [x] Receptor de Apps Script funcionando (hoja, carpeta en "Briefs Divú", Gmail).
+- [x] Formularios finales revisados: `brief-diseno-divu.html` y `briefing-divu.html`.
+- [x] Catálogo con Kraljic: sale del brief completo (`../../formularios/README.md`).
+- [x] Corrida de prueba con BRF-261017-8R2E (17/10/2026): tarjeta, hoja, borradores y etiquetas de Gmail.
 
 ## Bloqueos
 
 - [ ] **Etiquetas de Trello:** crearlas a mano (ver `ESTRUCTURA-TRELLO.md`).
 
-## Datos que faltan
+## Por decidir (Cynthia)
 
-- [ ] Catálogo de 34 servicios + Matriz de Kraljic (en Drive, carpeta "Estudio Divú").
-- [x] Receptor de Apps Script funcionando (folio de prueba BRF-261017-8R2E en hoja, Drive y Gmail).
-- [ ] Recibir `brief-diseno-divu.html` (versión vigente) y `briefing-divu.html` (brief completo).
-- [ ] Decálogo del Cliente (en Drive).
+- [ ] ¿Agregar "Les escribí antes y no me han respondido" a "¿Cómo nos conociste?" en los formularios?
+- [ ] ¿Agregar DIV-DIS-006 Dirección de Arte a los formularios?
+
+## Datos que faltan (no bloquean)
+
+- [ ] Decálogo del Cliente completo (en Drive).
 - [ ] Horas estimadas por servicio (Cynthia las calcula).
 - [ ] Tiers de servicios que no son Rebranding ni Lanzamiento (Cynthia los actualiza).
 - [ ] Link del formulario (para la respuesta a DMs).
-- [x] Solicitud de prueba: BRF-261017-8R2E.
 
 ## Después de la prueba
 
