@@ -5,7 +5,7 @@
 - [x] Zona horaria: Madrid. Cuenta: estudiodivu@gmail.com.
 - [x] Gmail: etiquetas `Solicitudes` y `Solicitudes/Procesada`.
 - [x] Trello: tableros "Solicitudes" y "Proyectos" con sus 7 columnas cada uno.
-- [x] Sheets: hoja "Solicitudes Divú" con las 19 columnas, en la carpeta "Estudio Divú" de Drive.
+- [x] Sheets: hoja "Solicitudes Divú", pestaña "Solicitudes", 33 columnas (las llena el receptor).
 - [x] Una tarjeta por proyecto (nunca un tablero por proyecto).
 - [x] Acuse: A + B (confirmación automática de WordPress + borradores del agente).
 - [x] Horario (Madrid): L-V 9:03 completa; L-J 13:03 y 17:03 ligeras. Viernes solo mañana.
@@ -18,17 +18,14 @@
 
 ## Datos que faltan
 
-- [ ] Pegar la confirmación automática (`PLANTILLAS.md`, sección 0) en el plugin de WordPress.
 - [ ] Catálogo de 34 servicios + Matriz de Kraljic (en Drive, carpeta "Estudio Divú").
-- [x] Brief exprés de diseño recibido (`../../formularios/brief-expres-diseno.html`).
-- [ ] Receptor de Apps Script del brief: ¿dónde escribe y si manda correo "Nueva Solicitud"?
-- [ ] Brief completo (el que usa el mismo receptor) y brief de audiovisual.
-- [ ] Ajustes al brief exprés (ver `../../formularios/README.md`).
+- [x] Receptor de Apps Script funcionando (folio de prueba BRF-261017-8R2E en hoja, Drive y Gmail).
+- [ ] Recibir `brief-diseno-divu.html` (versión vigente) y `briefing-divu.html` (brief completo).
 - [ ] Decálogo del Cliente (en Drive).
 - [ ] Horas estimadas por servicio (Cynthia las calcula).
 - [ ] Tiers de servicios que no son Rebranding ni Lanzamiento (Cynthia los actualiza).
 - [ ] Link del formulario (para la respuesta a DMs).
-- [ ] Solicitud de prueba.
+- [x] Solicitud de prueba: BRF-261017-8R2E.
 
 ## Después de la prueba
 

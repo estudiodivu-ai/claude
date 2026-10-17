@@ -47,7 +47,7 @@ El agente las busca **por nombre**; si no encuentra una, lo avisa en el resumen 
 
 ## Tarjeta de solicitud
 
-**Título:** `<Empresa> · <Servicio> · <Ocasión>`
+**Título:** `<Folio> · <Empresa> · <Servicio>` (el folio evita tarjetas duplicadas)
 
 **Descripción (ficha):**
 
@@ -77,9 +77,9 @@ Tiene: … · Faltan: …
 👉 Siguiente paso recomendado
 … (motivo en una línea)
 
-📝 Brief precargado: <link>
-📧 Correo original: <link>
-📊 Fila en la hoja: <n.º de fila>
+📁 Carpeta del brief: <link>
+📧 Correo "Nueva Solicitud": <link>
+📊 Fila en la hoja: <n.º de fila> · Folio: <folio>
 ```
 
 **Vencimiento de la tarjeta:** la fecha límite que pidió el cliente.

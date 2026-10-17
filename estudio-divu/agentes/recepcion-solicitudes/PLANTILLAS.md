@@ -3,28 +3,10 @@
 Tono Divú: cercano, creativo, con humor sutil, pero claro. Idioma según el país del cliente
 (ver `../../CONTEXTO.md`). Todos los correos a clientes quedan como **borrador**.
 
-## 0. Confirmación automática del formulario (WordPress)
+## 0. Confirmación automática
 
-La envía el plugin del formulario al instante, no el agente. Texto fijo, aprobado una vez.
-
-**Asunto:** ¡Llegó tu solicitud! ✨ · Estudio Divú
-
-> Hola, {nombre}:
->
-> Tu solicitud ya está en nuestra mesa (y no, no se va a perder entre los bocetos).
->
-> Esto es lo que pasa ahora:
-> 1. La revisamos con calma, de lunes a jueves por la mañana (hora de España).
-> 2. Te escribimos por este mismo correo con los siguientes pasos o, si nos falta algún dato,
->    para pedírtelo.
->
-> Mientras tanto, no hace falta que hagas nada más. Si quieres añadir algo, responde a este
-> correo.
->
-> Un abrazo creativo,
-> Cynthia · Estudio Divú
-
-**Prohibido aquí también:** precios, montos, tiers, fechas de entrega o de inicio.
+La envía el receptor de Apps Script al instante ("Recibimos tu solicitud · Estudio Divú · {folio}").
+El agente no la toca.
 
 ## 1. Acuse de recibo (+ datos faltantes, si aplica)
 

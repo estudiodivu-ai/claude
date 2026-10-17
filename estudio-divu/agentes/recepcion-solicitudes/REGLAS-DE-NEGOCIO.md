@@ -24,7 +24,8 @@ forecast puede excluir el efecto promocional (tarea 9 del Mapa de procesos).
 | Otra | Por confirmar (preguntar a Cynthia en el resumen) |
 
 Tabla confirmada por Cynthia (octubre 2026). Las opciones del formulario deben ser exactamente estas.
-El origen se asigna una vez, al crear la tarjeta, y no cambia.
+El receptor ya llena la columna O. El agente la compara con esta tabla y, si no coincide,
+lo avisa en "Necesito tu ojo" (no la corrige). El origen no cambia después.
 
 ## Catálogo y códigos
 
@@ -63,8 +64,11 @@ revisión de propuestas). Desde agosto 2027: 112 h − 8 h = 104 h.
   - Esencial **$800**
   - Integral **$1,150**
   - Premium **$1,500**
-- Rangos de presupuesto del formulario: menos de $300 · $300-800 · $800-1,150 ·
-  $1,150-1,500 · más de $1,500.
+- Rangos de presupuesto del formulario (columna J): `0-300` · `300-800` · `800-1150` ·
+  `1150-1500` · `1500+` · `Por definir`.
+  - `0-300` → por debajo del ticket base ($334): alerta "Presupuesto bajo el tier".
+  - `300-800` → ticket base · `800-1150` → Esencial · `1150-1500` → Integral · `1500+` → Premium.
+  - `Por definir` → sin alerta; recomendar sesión de briefing.
 - Retainer nuevo del período Máster: **$400/mes**.
 - Tier sugerido: el más alto que cubra el presupuesto del cliente sin pasarse.
 - Servicios que **no** son Rebranding ni Lanzamiento: **"Tier por definir"** (Cynthia está
@@ -77,7 +81,8 @@ revisión de propuestas). Desde agosto 2027: 112 h − 8 h = 104 h.
 | Presupuesto bajo el tier | El rango del cliente no llega al tier que el servicio requiere. | Presupuesto bajo el tier |
 | Fecha inviable | La fecha pedida no cabe en la capacidad. | Fecha inviable |
 | Cuello de Botella | El servicio es Cuello de Botella → requiere aliado. | (etiqueta Kraljic) |
-| Más de un aprobador | Hay más de un SPOC → exige sesión de briefing. | (solo en la ficha) |
+| Más de un aprobador | Columna V = "Somos varios" → exige sesión de briefing. | (solo en la ficha) |
+| Fecha pasada | La fecha pedida es anterior a la fecha de entrada. | Fecha inviable |
 
 ## Siguientes pasos posibles (Cynthia elige)
 
