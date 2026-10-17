@@ -5,8 +5,8 @@ Los formularios viven en el WordPress de Divú. Esta carpeta solo documenta cóm
 
 | Formulario | Archivo | Estado |
 |---|---|---|
-| Brief exprés de diseño | `brief-diseno-divu.html` | Vigente. Incluye "¿Cómo nos conociste?", "¿Quién aprueba?", presupuesto hasta $1,500+ e insumos obligatorios. |
-| Formato de Briefing Divú (brief completo) | `briefing-divu.html` | Vigente. 9 escenas, catálogo completo por línea y preguntas específicas por línea. |
+| Brief exprés de diseño | `brief-diseno-divu.html` · https://estudiodivu.art/brief-diseno/ | Vigente. Incluye "¿Cómo nos conociste?", "¿Quién aprueba?", presupuesto hasta $1,500+ e insumos obligatorios. |
+| Formato de Briefing Divú (brief completo) | `briefing-divu.html` · https://estudiodivu.art/solicitar-proyecto/ | Vigente. 9 escenas, catálogo completo por línea y preguntas específicas por línea. |
 | Brief de audiovisual (7 oct) | `brief-moodboard-av.html` (Drive) | **Obsoleto. No usar.** No está conectado al receptor. |
 
 ## Receptor (Apps Script)
@@ -44,7 +44,7 @@ Los formularios viven en el WordPress de Divú. Esta carpeta solo documenta cóm
 | DIV-DIS-003 | Ilustración digital y key visuals | Cuello de Botella |
 | DIV-DIS-004 | Packaging y empaques | Estratégico |
 | DIV-DIS-005 | Rediseño / refresh de identidad | Apalancado |
-| DIV-DIS-006 | Dirección de Arte (**no está en los formularios**) | Estratégico |
+| DIV-DIS-006 | Dirección de Arte (entra con la versión nueva del brief completo) | Estratégico |
 | DIV-EDI-001 | Editorial: libros y catálogos | Cuello de Botella |
 | DIV-EDI-002 | Editorial: revistas y publicaciones digitales | Cuello de Botella |
 | DIV-EDI-003 | Brochures y pitch decks | Rutinario |

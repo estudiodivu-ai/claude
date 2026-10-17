@@ -27,8 +27,8 @@ El agente no la toca.
 > Puedes responder a este mismo correo.
 > {FIN}
 >
-> Un abrazo creativo,
-> Cynthia · Estudio Divú
+> Un abrazo,
+> Cynthia Pais · Estudio Divú
 > Atención: lunes a viernes, 9:00-18:00 (hora de España)
 
 **Prohibido en este correo:** precios, montos, tiers, fechas de entrega o de inicio,
@@ -38,25 +38,25 @@ El agente no la toca.
 
 > ¡Hola! Gracias por escribirnos 🙌 Para darte una respuesta a tu medida (y no perdernos
 > nada en el camino), te pedimos que nos cuentes tu proyecto en este formulario:
-> {LINK DEL FORMULARIO}
+> diseño (logo, posts, empaques…): https://estudiodivu.art/brief-diseno/
+> cualquier otro proyecto: https://estudiodivu.art/solicitar-proyecto/
 > Te respondemos en horario de oficina, de lunes a viernes de 9:00 a 18:00 (hora de España).
 
-## 3. Resumen diario para Cynthia
+## 3. Resumen del día (en Claude, no por correo)
 
-**Asunto:** ☕ Divú · Solicitudes del {fecha}
+El resumen es **el mensaje final de la sesión de Claude** de la corrida de las 9:03.
+Cynthia lo lee en la app de Claude (le llega una notificación). **No se crea borrador en Gmail.**
 
 ```
-Buenos días, Cynthia. Esto llegó desde la última revisión:
+☕ Divú · Solicitudes del {fecha}
 
 🆕 {n} solicitudes nuevas
-  • {Empresa} · {Servicio} · {Kraljic} · {tier} · recomiendo: {siguiente paso}
-    🚨 {alertas, si hay}
+  • {Folio} · {Empresa} · {Servicio} · {Kraljic} · {tier} · recomiendo: {siguiente paso}
+    🚨 {alertas, si hay} · Tarjeta: {link}
 
 ⏳ Esperando datos: {n} (la más antigua: {empresa}, desde {fecha})
-✅ Pasadas a Proyectos hoy: {lista o "ninguna"}
-
+✅ Pasadas a Proyectos: {lista o "ninguna"}
 📝 Borradores esperando tu OK en Gmail: {n}
 👀 Necesito tu ojo: {dudas o errores, o "nada, todo en orden"}
-
-⏱️ Capacidad del mes: {h usadas} / 104 h
+🔧 Acciones del agente en Trello hoy: {n}   ← solo el primer mes
 ```

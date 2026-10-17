@@ -20,17 +20,14 @@
 
 - [ ] **Etiquetas de Trello:** crearlas a mano (ver `ESTRUCTURA-TRELLO.md`).
 
-## Por decidir (Cynthia)
+- [x] Firma "Cynthia Pais · Estudio Divú", cierre "Un abrazo,". Resumen del día en Claude, no por Gmail.
+- [x] Decálogo del Cliente leído; links públicos de los dos briefs anotados.
+- [x] Datos de la prueba BRF-261017-8R2E se quedan como ejemplo.
 
-- [ ] ¿Agregar "Les escribí antes y no me han respondido" a "¿Cómo nos conociste?" en los formularios?
-- [ ] ¿Agregar DIV-DIS-006 Dirección de Arte a los formularios?
+## En manos de Cynthia
 
-## Datos que faltan (no bloquean)
-
-- [ ] Decálogo del Cliente completo (en Drive).
-- [ ] Horas estimadas por servicio (Cynthia las calcula).
-- [ ] Tiers de servicios que no son Rebranding ni Lanzamiento (Cynthia los actualiza).
-- [ ] Link del formulario (para la respuesta a DMs).
+- [ ] Publicar en WordPress la versión nueva de los dos briefs ("No me han respondido" + DIV-DIS-006).
+- [ ] Precios por entregable (sustituyen a la tabla de horas). Mientras tanto: "Tier por definir" y "Sin estimar".
 
 ## Después de la prueba
 

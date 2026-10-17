@@ -21,10 +21,10 @@ Tabla vigente en los formularios (`CONOCIO` en `brief-diseno-divu.html` y `brief
 | Un anuncio de Divú | Asistida |
 | Un evento, taller o feria | Asistida |
 | Una alianza (incubadora, cámara, creador) | Asistida |
+| Les escribí antes y no me han respondido | No asistida + alerta "Escribió antes sin respuesta" (prioridad) |
 | Otro | Por clasificar → preguntar a Cynthia en el resumen |
 
-**[PENDIENTE: Cynthia decide si agrega "Les escribí antes y no me han respondido" (No asistida +
-aviso) a los formularios.]**
+(La opción "Les escribí antes…" entra cuando Cynthia publique la versión nueva de los formularios.)
 
 El receptor ya llena la columna O. El agente la compara con esta tabla y, si no coincide,
 lo avisa en "Necesito tu ojo" (no la corrige). El origen no cambia después.
@@ -33,7 +33,7 @@ lo avisa en "Necesito tu ojo" (no la corrige). El origen no cambia después.
 
 34 servicios agrupados en: DIV-ASE · DIV-DIS · DIV-EDI · DIV-AUD · DIV-SND · DIV-PUB · DIV-EVE.
 Fuente: el catálogo `CAT` de `briefing-divu.html` (33 servicios con Kraljic), copiado en `../../formularios/README.md`.
-Nuevo: **DIV-DIS-006 Dirección de Arte** (Estratégico, precio por definir → "Tier por definir"). **Todavía no está en los formularios.**
+Nuevo: **DIV-DIS-006 Dirección de Arte** (Estratégico, precio por definir → "Tier por definir"). Entra en el brief completo con la versión nueva de los formularios.
 
 ## Kraljic → ruta
 
@@ -56,8 +56,9 @@ revisión de propuestas). Desde agosto 2027: 112 h − 8 h = 104 h.
 - Horas ya comprometidas que hay que restar: TSLA y Consejo de los Sabios (tope 8 h/mes).
 - Gatillo de contratación: 58 h/mes durante 3 meses (lo evalúa otro proceso; aquí solo se
   informa si una solicitud empuja la ocupación por encima de 58 h).
-- Horas estimadas por servicio: **pendiente, Cynthia las está calculando.** Mientras tanto
-  el agente solo informa las horas libres del calendario hasta la fecha pedida.
+- **Divú cobra por entregable, no por horas.** No hay tabla de horas por servicio (Cynthia está
+  actualizando precios por entregable). El agente informa las ventanas libres del calendario hasta
+  la fecha pedida y marca "⚪ Sin estimar": la decisión de capacidad es de Cynthia.
 
 ## Precios
 
@@ -97,11 +98,21 @@ El agente **recomienda** uno con una línea de motivo. No ejecuta ninguno.
 
 ## Reglas del Decálogo del Cliente
 
-- Sin brief aprobado + 50% de anticipo no arranca nada (anticipo 50/50).
-- Máximo 2 rondas de cambios.
-- Cancelación: 50% / 70%.
-- Canal oficial: L-V 9:00-18:00 (hora de Madrid).
-- Asesorías: primero se cobra por Google Pay (verificado por Cynthia), luego se agenda
-  en Google Calendar con Google Meet.
+Fuente: [Decálogo del Cliente — Divú](https://claude.ai/artifact/NQTJrnrTxs7EQ99Uihtbrq) (doc de Claude).
 
-Fuente completa: **[RUTA PENDIENTE]**.
+| # | Acuerdo | Regla |
+|---|---|---|
+| 1 | Brief obligatorio | Inicia con brief aprobado + 50% de anticipo; 50% restante antes de finales. Contrabrief en máx. 3 días hábiles. |
+| 2 | Revisiones | Hasta 2 rondas consolidadas; la 3ª se cotiza a tarifa fija. |
+| 3 | Propiedad intelectual | Se entregan finales; editables/RAW con recargo de +30-50%. |
+| 4 | Abandono y cancelación | Pausa a los 15 días sin respuesta, cancela a los 60. Cancelación: 50% con 7+ días de aviso, 70% con menos. |
+| 5 | SPOC | Feedback y aprobaciones solo del SPOC. |
+| 6 | Canales | Correo o plataforma oficial, L-V 9:00-18:00. |
+| 7 | Insumos | Cada retraso de insumos extiende el cronograma. |
+| 8 | Terceros | Música premium, pauta y locación aparte. |
+| 9 | Archivo | Custodia de 30 días; archivo permanente se cotiza. |
+| 10 | Portafolio | Divú puede exhibir el trabajo; NDA explícito con recargo. |
+
+Regla de inicio: el lead time corre solo con brief aprobado por el SPOC + 50% de anticipo.
+Asesorías: primero se cobra por Google Pay (verificado por Cynthia), luego se agenda en Google
+Calendar con Google Meet.
