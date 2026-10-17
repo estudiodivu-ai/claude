@@ -20,8 +20,14 @@ Hora de Madrid. Sábado y domingo no corre.
 
 El viernes solo hay corrida de mañana: es día libre de Cynthia.
 
-El cliente ya recibe una **confirmación automática al instante** desde el formulario de
-WordPress (plantilla en `PLANTILLAS.md`). Tus borradores son la respuesta personalizada.
+El cliente ya recibe una **confirmación automática al instante** desde el receptor de Apps
+Script (ver `../../formularios/README.md`). Tus borradores son la respuesta personalizada.
+
+## De dónde salen las solicitudes
+
+El receptor de Apps Script ya hace por cada brief: fila en la hoja (Estado "Nueva"), carpeta
+en "Briefs Divú", correo "Nueva Solicitud · {folio} · …" a estudiodivu@gmail.com y confirmación
+al cliente. **No toques el receptor.** La **fuente de verdad es la hoja**; el correo es el aviso.
 
 ## Cuentas
 
@@ -43,9 +49,10 @@ WordPress (plantilla en `PLANTILLAS.md`). Tus borradores son la respuesta person
 
 ## Paso 1 — Buscar solicitudes nuevas
 
-Busca en Gmail los correos con asunto **"Nueva Solicitud"** que no tengan la etiqueta
-`Solicitudes/Procesada`. Cada correo = una solicitud.
-Ponle la etiqueta `Solicitudes` a cada uno (si no la tiene ya).
+Lee la pestaña **Solicitudes** de la hoja (`HOJA-SOLICITUDES.md`). Cada fila con la columna
+**S (Link a la tarjeta) vacía** es una solicitud sin procesar.
+Busca en Gmail su correo (asunto contiene "Nueva Solicitud" y el **folio**; ojo: lo envía la
+propia cuenta, así que está en Recibidos y en Enviados) y ponle la etiqueta `Solicitudes`.
 
 
 
@@ -54,17 +61,22 @@ Ponle la etiqueta `Solicitudes` a cada uno (si no la tiene ya).
 **a) Validar campos obligatorios**
 Empresa · SPOC (nombre, correo y WhatsApp) · servicio · ocasión · fecha límite ·
 rango de presupuesto · insumos disponibles · cómo nos conoció.
+El formulario ya los exige, así que además revisa que tengan sentido: fecha pedida **anterior
+a la fecha de entrada** (→ alerta "Fecha inviable"), presupuesto "Por definir", "Otra cosa"
+sin notas, correo o WhatsApp con formato raro.
 - Si falta algo: redacta el correo **"Datos faltantes"** (`PLANTILLAS.md`) como **borrador**
   en Gmail y la tarjeta va a **Esperando datos**.
 - Si está completo: la tarjeta va a **Lista para decidir**.
 
-**b) Acuse de recibo**
-Redacta el **acuse** (`PLANTILLAS.md`) como **borrador**. Nunca menciona precios ni fechas
-confirmadas. Si también faltan datos, junta ambos en un solo borrador.
+**b) Respuesta personalizada**
+El cliente ya recibió la confirmación automática. Redacta el **acuse personalizado**
+(`PLANTILLAS.md`, sección 1) como **borrador**, respondiendo en el mismo hilo si existe.
+Nunca menciona precios ni fechas confirmadas. Si faltan datos, van en el mismo borrador.
 
 **c) Clasificar**
-Usando el Catálogo de 33 servicios: código DIV, categoría Kraljic, tier sugerido y ruta
-(propio / aliado / white-label). Ver `REGLAS-DE-NEGOCIO.md`.
+El código DIV y el Kraljic ya vienen del formulario (G y H); revísalos solo si la pieza es
+"Otra cosa". Tú pones el **tier sugerido** (K) y la **ruta** (propio / aliado / white-label).
+Ver `REGLAS-DE-NEGOCIO.md` y `../../formularios/README.md`.
 
 **d) Fecha vs. capacidad**
 Revisa el calendario estudiodivu@gmail.com entre hoy y la fecha pedida, **contando solo las
@@ -83,14 +95,19 @@ Crea la tarjeta en **Solicitudes** con la ficha (`ESTRUCTURA-TRELLO.md`).
 Kraljic + Origen (**Asistida** o **No asistida**, según "¿Cómo nos conociste?"; ver reglas)
 + alertas que apliquen.
 
-**h) Fila en la hoja**
-Agrega una fila en **Solicitudes Divú** (`HOJA-SOLICITUDES.md`). Estado = columna actual.
+**h) Completar la fila en la hoja**
+La fila ya existe. Completa **solo** K (Tier sugerido), M (¿Cabe en capacidad?), P (Alertas),
+R (Estado = columna de Trello) y S (Link a la tarjeta). Nunca cambies lo que llenó el receptor.
+Escribe S **al final**: es la marca de "procesada".
 
-**i) Brief precargado**
-Haz una copia del Formato de Briefing Divú, rellena lo que el cliente ya respondió,
-deja vacío el resto y pon el link en la tarjeta.
+**i) Brief**
+Pon en la tarjeta el link de la **Carpeta del brief** (Y). Si el formato fue el brief exprés y
+el proyecto necesita el brief completo, anótalo en "Siguiente paso recomendado".
+**[PENDIENTE: revisar `briefing-divu.html` para definir cómo se precarga.]**
 
 **Al terminar la solicitud:** pon la etiqueta `Solicitudes/Procesada` al correo en Gmail.
+Si algo falla a mitad de camino, **no escribas S**: la próxima corrida la retoma (antes de
+crear la tarjeta, busca en Trello una con el mismo folio para no duplicarla).
 
 ## Paso 3 — Resumen del día
 
