@@ -20,7 +20,10 @@
 
 - [ ] Pegar la confirmación automática (`PLANTILLAS.md`, sección 0) en el plugin de WordPress.
 - [ ] Catálogo de 34 servicios + Matriz de Kraljic (en Drive, carpeta "Estudio Divú").
-- [ ] Formato de Briefing Divú (en Drive, como Google Doc).
+- [x] Brief exprés de diseño recibido (`../../formularios/brief-expres-diseno.html`).
+- [ ] Receptor de Apps Script del brief: ¿dónde escribe y si manda correo "Nueva Solicitud"?
+- [ ] Brief completo (el que usa el mismo receptor) y brief de audiovisual.
+- [ ] Ajustes al brief exprés (ver `../../formularios/README.md`).
 - [ ] Decálogo del Cliente (en Drive).
 - [ ] Horas estimadas por servicio (Cynthia las calcula).
 - [ ] Tiers de servicios que no son Rebranding ni Lanzamiento (Cynthia los actualiza).
