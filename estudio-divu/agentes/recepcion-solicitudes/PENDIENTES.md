@@ -31,5 +31,8 @@
 
 ## Después de la prueba
 
-- [ ] Programar el agente (rutina en Claude).
+- [x] Rutinas creadas (`RUTINAS.md`), pausadas.
+- [ ] **Cynthia:** en claude.ai → Rutinas, añadir a las dos rutinas los conectores (Gmail,
+      Google Calendar, Google Sheets, Google Drive, Trello) y el repositorio estudiodivu-ai/claude;
+      luego activarlas.
 - [ ] Primer mes: revisar el consumo de automatizaciones de Trello.

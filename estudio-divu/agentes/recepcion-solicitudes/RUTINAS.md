@@ -4,10 +4,14 @@ Dos rutinas. Cada disparo abre una **sesión nueva** en el entorno de Claude Cod
 con acceso a Gmail, Google Calendar, Google Sheets, Google Drive y Trello.
 Al terminar, Cynthia recibe una notificación en la app de Claude.
 
-| Rutina | Cuándo (hora de Madrid) | Cron |
-|---|---|---|
-| Divú · Recepción de solicitudes (completa) | Lunes a viernes, 9:03 | `CRON_TZ=Europe/Madrid 3 9 * * 1-5` |
-| Divú · Recepción de solicitudes (ligera) | Lunes a jueves, 13:03 y 17:03 | `CRON_TZ=Europe/Madrid 3 13,17 * * 1-4` |
+| Rutina | ID | Cuándo (hora de Madrid) | Cron |
+|---|---|---|---|
+| Divú · Recepción de solicitudes (completa) | `trig_01GpVikNrLRRT1Ddq5gJkm2e` | Lunes a viernes, 9:03 | `CRON_TZ=Europe/Madrid 3 9 * * 1-5` |
+| Divú · Recepción de solicitudes (ligera) | `trig_01SUkujEtmPbsWFVW65diuu3` | Lunes a jueves, 13:03 y 17:03 | `CRON_TZ=Europe/Madrid 3 13,17 * * 1-4` |
+
+**Estado (22/10/2026): creadas pero PAUSADAS.** Se crearon sin conectores (Gmail, Calendar,
+Sheets, Drive, Trello) y sin el repositorio, porque esta vía no permite pasarlos. Hay que
+añadirlos desde claude.ai → Rutinas → editar cada rutina, y luego activarlas.
 
 ## Texto de la rutina completa
 
