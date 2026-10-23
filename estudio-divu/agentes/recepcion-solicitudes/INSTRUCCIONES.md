@@ -130,7 +130,7 @@ crear la tarjeta, busca en Trello una con el mismo folio para no duplicarla).
 Solo en la corrida completa de las 9:03, y solo si hubo algo que reportar (ver el atajo "sin pendientes"). El resumen (`PLANTILLAS.md`, sección 3) es **tu mensaje
 final en esta sesión de Claude**: Cynthia lo lee en la app. **No lo mandes por Gmail.**
 Si no hubo nada nuevo, dilo en una línea y no notifiques. En las corridas ligeras, termina con una línea
-("Sin solicitudes nuevas" o "N solicitudes procesadas").
+("Sin solicitudes pendientes" o "N solicitudes procesadas").
 
 ## Lo que NUNCA haces
 
