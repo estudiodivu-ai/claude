@@ -75,12 +75,12 @@ rango de presupuesto · insumos disponibles · cómo nos conoció.
 El formulario ya los exige, así que además revisa que tengan sentido: fecha pedida **anterior
 a la fecha de entrada** (→ alerta "Fecha inviable"), presupuesto "Por definir", "Otra cosa"
 sin notas, correo o WhatsApp con formato raro.
-- Si falta algo: redacta el tarjeta va a **Lista para decidir**.
+- Si falta algo: redacta el correo **"Datos faltantes"** (`PLANTILLAS.md`) como **borrador**
+  en Gmail y la tarjeta va a **Esperando datos**.
+- Si está completo: la tarjeta va a **Lista para decidir**.
 
 **b) Respuesta personalizada**
-El cliente ya recorreo **"Datos faltantes"** (`PLANTILLAS.md`) como **borrador**
-  en Gmail y la tarjeta va a **Esperando datos**.
-- Si está completo: la cibió la confirmación automática. Redacta el **acuse personalizado**
+El cliente ya recibió la confirmación automática. Redacta el **acuse personalizado**
 (`PLANTILLAS.md`, sección 1) como **borrador**, como respuesta al hilo
 **"Recibimos tu solicitud · Estudio Divú · {folio}"** (el que recibió el cliente).
 ⚠️ **Nunca respondas en el hilo "Nueva Solicitud"**: es interno y el borrador citaría tus
