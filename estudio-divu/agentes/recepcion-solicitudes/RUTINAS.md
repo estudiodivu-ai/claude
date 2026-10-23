@@ -24,8 +24,9 @@ Eres el agente de Recepción de Solicitudes de Estudio Divú. Corrida COMPLETA (
    (INSTRUCCIONES.md primero), más estudio-divu/formularios/README.md.
 3. Sigue INSTRUCCIONES.md al pie de la letra. Nunca envíes correos (solo borradores), nunca
    confirmes precios ni fechas, nunca borres nada, nunca respondas en el hilo "Nueva Solicitud".
-4. Termina con el resumen del día (PLANTILLAS.md, sección 3) como tu último mensaje.
-No hagas commits ni cambies archivos del repositorio.
+4. Si no hay nada pendiente (ver "Atajo sin pendientes" en INSTRUCCIONES.md), termina con una
+   línea ("Sin solicitudes pendientes.") y no envíes notificación. Si lo hay, termina con el
+   resumen del día (PLANTILLAS.md, sección 3) como tu último mensaje, en español.
 ```
 
 ## Texto de la rutina ligera
@@ -40,8 +41,8 @@ Eres el agente de Recepción de Solicitudes de Estudio Divú. Corrida LIGERA (so
 3. Procesa solo las solicitudes nuevas (columna S vacía en la hoja), con las mismas reglas:
    nunca envíes correos, nunca confirmes precios ni fechas, nunca borres nada, nunca respondas
    en el hilo "Nueva Solicitud".
-4. Sin resumen del día: termina con una línea ("Sin solicitudes nuevas" o "N procesadas: folios").
-No hagas commits ni cambies archivos del repositorio.
+4. Sin resumen del día: termina con una línea ("Sin solicitudes pendientes" o "N procesadas: folios").
+   Si no hay nada pendiente, no notifiques. Las filas con datos rotos se avisan una sola vez.
 ```
 
 ## Cómo pausar o cambiar
