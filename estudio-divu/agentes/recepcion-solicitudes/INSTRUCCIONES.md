@@ -54,7 +54,18 @@ Lee la pestaña **Solicitudes** de la hoja (`HOJA-SOLICITUDES.md`). Cada fila co
 Busca en Gmail su correo (asunto contiene "Nueva Solicitud" y el **folio**; ojo: lo envía la
 propia cuenta, así que está en Recibidos y en Enviados) y ponle la etiqueta `Solicitudes`.
 
+**Atajo "sin pendientes" (todas las corridas):** si, después de los pasos 0 y 1, no hay (a) tarjetas
+nuevas en Aceptada / Reserva / Rechazada por atender, ni (b) filas procesables con S vacía, **detente**:
+no crees tarjetas, borradores ni resumen, y **no envíes notificación**. Termina con una sola línea:
+"Sin solicitudes pendientes." Mientras el agente esté en pruebas, esa línea es todo lo que se dice
+en la corrida de las 9:03 si no hay nada nuevo.
 
+**Filas no procesables (datos rotos):** una fila con S vacía cuyo Servicio, Ocasión o Fecha pedida
+estén vacíos o digan `undefined`, o cuyo folio no siga el formato `BRF-AAMMDD-XXXX`, **no se procesa**
+(no tarjeta, no borrador, no S). Se avisa **una sola vez** en "Necesito tu ojo" y se ignora en las
+corridas siguientes mientras la fila no cambie, para no repetir avisos ni notificaciones. Esas filas
+no cuentan como "pendientes" en el atajo de arriba. Si una fila rota se corrige, vuelve a ser procesable.
+Una fila rota cuyo correo interno ya tiene la etiqueta `Solicitudes` ya fue avisada.
 
 ## Paso 2 — Por cada solicitud
 
@@ -64,12 +75,12 @@ rango de presupuesto · insumos disponibles · cómo nos conoció.
 El formulario ya los exige, así que además revisa que tengan sentido: fecha pedida **anterior
 a la fecha de entrada** (→ alerta "Fecha inviable"), presupuesto "Por definir", "Otra cosa"
 sin notas, correo o WhatsApp con formato raro.
-- Si falta algo: redacta el correo **"Datos faltantes"** (`PLANTILLAS.md`) como **borrador**
-  en Gmail y la tarjeta va a **Esperando datos**.
-- Si está completo: la tarjeta va a **Lista para decidir**.
+- Si falta algo: redacta el tarjeta va a **Lista para decidir**.
 
 **b) Respuesta personalizada**
-El cliente ya recibió la confirmación automática. Redacta el **acuse personalizado**
+El cliente ya recorreo **"Datos faltantes"** (`PLANTILLAS.md`) como **borrador**
+  en Gmail y la tarjeta va a **Esperando datos**.
+- Si está completo: la cibió la confirmación automática. Redacta el **acuse personalizado**
 (`PLANTILLAS.md`, sección 1) como **borrador**, como respuesta al hilo
 **"Recibimos tu solicitud · Estudio Divú · {folio}"** (el que recibió el cliente).
 ⚠️ **Nunca respondas en el hilo "Nueva Solicitud"**: es interno y el borrador citaría tus
