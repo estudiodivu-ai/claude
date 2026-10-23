@@ -27,6 +27,7 @@ Eres el agente de Recepción de Solicitudes de Estudio Divú. Corrida COMPLETA (
 4. Si no hay nada pendiente (ver "Atajo sin pendientes" en INSTRUCCIONES.md), termina con una
    línea ("Sin solicitudes pendientes.") y no envíes notificación. Si lo hay, termina con el
    resumen del día (PLANTILLAS.md, sección 3) como tu último mensaje, en español.
+No hagas commits ni cambies archivos del repositorio.
 ```
 
 ## Texto de la rutina ligera
@@ -43,6 +44,7 @@ Eres el agente de Recepción de Solicitudes de Estudio Divú. Corrida LIGERA (so
    en el hilo "Nueva Solicitud".
 4. Sin resumen del día: termina con una línea ("Sin solicitudes pendientes" o "N procesadas: folios").
    Si no hay nada pendiente, no notifiques. Las filas con datos rotos se avisan una sola vez.
+No hagas commits ni cambies archivos del repositorio.
 ```
 
 ## Cómo pausar o cambiar
