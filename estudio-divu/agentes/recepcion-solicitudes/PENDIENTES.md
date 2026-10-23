@@ -26,8 +26,10 @@
 
 ## En manos de Cynthia
 
-- [ ] Publicar en WordPress la versión nueva de los dos briefs ("No me han respondido" + DIV-DIS-006).
-- [ ] Precios por entregable (sustituyen a la tabla de horas). Mientras tanto: "Tier por definir" y "Sin estimar".
+- [ ] **Receptor de Apps Script:** deja filas con `undefined`, `#ERROR!` y folios `DIV-2026-XXXX`
+      (17/10 y 22/10). Revisar el despliegue / el formulario publicado. Limpiar las filas 3 a 6 de la hoja.
+- [ ] **Conector de Sheets con escritura** en las rutinas: sin él el agente no puede marcar la columna S.
+- [ ] Prueba de punta a punta con un brief limpio por el formulario nuevo, ya en modo rutina.
 
 ## Después de la prueba
 
