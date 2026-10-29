@@ -9,7 +9,7 @@ Al terminar, Cynthia recibe una notificación en la app de Claude con el resumen
 
 **Estado (26/10/2026): creada y activa; primera corrida el domingo 1 nov a las 18:03.** Se creó con
 todos los conectores de la cuenta; solo usa Google Sheets, Trello, Google Calendar y Google Drive.
-Falta añadir el repositorio desde claude.ai (ver `PENDIENTES.md`).
+Repositorio añadido por Cynthia el 29 oct.
 
 ## Texto de la rutina
 
