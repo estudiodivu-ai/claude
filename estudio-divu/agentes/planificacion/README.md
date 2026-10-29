@@ -24,5 +24,5 @@ Departamento **Planificación · S&OP**, escritorio 2 de la Oficina Divú
 
 ## Estado
 
-🟡 **En prueba.** Borrador del 26 oct 2026, para que Cynthia lo corrija el miércoles 28.
+🟡 **En prueba.** Corregido por Cynthia el 29 oct 2026.
 Primera corrida supervisada: domingo 1 nov. Ver `PENDIENTES.md`.

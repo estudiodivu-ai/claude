@@ -1,13 +1,14 @@
 # Fuentes del agente de Planificación
 
-Todas en la cuenta **estudiodivu@gmail.com** (Trello: cuenta `estudiodivu`). Solo lectura.
+Todas en la cuenta **estudiodivu@gmail.com**, salvo los calendarios que solo bloquean horas (Trello: cuenta `estudiodivu`). Solo lectura.
 
 | Fuente | Dónde | ID / enlace |
 | --- | --- | --- |
 | Divú · Backoffice | Google Sheets, pestañas Pedidos, Pagos y Horas | `1xCJgGtklUFC5fsIUF4QASGvS_KjGUk70hruJXqCFObk` |
 | Proyectos | Trello, tablero de pedidos en curso (una tarjeta por pedido; ignora la tarjeta "PLANTILLA") | https://trello.com/b/3Qqh0VgV/proyectos |
 | Solicitudes | Trello, tablero del agente de Ventas (solo para contar solicitudes nuevas de la semana) | https://trello.com/b/fmQkk065/solicitudes |
-| Calendario | Google Calendar `estudiodivu@gmail.com` | — |
+| Calendario de tareas | Google Calendar `estudiodivu@gmail.com` (tareas pendientes; título empieza por el frente) | `estudiodivu@gmail.com` |
+| Calendarios que solo bloquean horas | Personal y de estudios, solo para saber qué horas están ocupadas | `cynthiagpaism@gmail.com`, "Máster de Dirección de Arte en Publicidad", "Diplomado de Compras", "Clases de Gallego" |
 | Plan de Ejecución | Claude Doc (opcional) | https://claude.ai/artifact/TTqEqTy57QdyTgRATujB4T |
 
 ## Columnas que usas en Pedidos
