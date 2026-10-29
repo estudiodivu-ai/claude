@@ -28,8 +28,9 @@ El agente no la toca.
 > {FIN}
 >
 > Un abrazo,
-> Cynthia Pais · Estudio Divú
-> Atención: lunes a viernes, 9:00-18:00 (hora de España)
+> Cynthia
+> Dirección de Arte Publicitaria · Estudio Divú
+> estudiodivu.art · estudiodivu@gmail.com
 
 **Prohibido en este correo:** precios, montos, tiers, fechas de entrega o de inicio,
 "aceptamos", "confirmado".
@@ -40,7 +41,7 @@ El agente no la toca.
 > nada en el camino), te pedimos que nos cuentes tu proyecto en este formulario:
 > diseño (logo, posts, empaques…): https://estudiodivu.art/brief-diseno/
 > cualquier otro proyecto: https://estudiodivu.art/solicitar-proyecto/
-> Te respondemos en horario de oficina, de lunes a viernes de 9:00 a 18:00 (hora de España).
+> Te respondemos en 1 día hábil, de lunes a jueves (hora de España).
 
 ## 3. Resumen del día (en Claude, no por correo)
 

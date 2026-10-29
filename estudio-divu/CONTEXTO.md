@@ -16,7 +16,10 @@ El nombre une **"Di"** (diseño, dirección, dibujo) con **"vú"** (*déjà vu*)
 
 - **Sedes:** Caracas, Venezuela, y Pontevedra, España.
 - **Cynthia reside en Pontevedra** y trabaja con clientes de Venezuela y España.
-- **Zona horaria de trabajo:** España (Europe/Madrid). Todos los horarios ("9:00", "L-V 9:00-18:00") son hora de Madrid.
+- **Zona horaria de trabajo:** España (Europe/Madrid). Todos los horarios son hora de Madrid.
+- **Horario de atención (29 oct 2026):** asíncrono por correo y portal, respuesta en 1 día hábil; días hábiles de lunes a jueves. Citas (briefing, asesoría) L-J 19:00-22:00 Madrid = 14:00-17:00 Caracas en invierno, 13:00-16:00 en verano.
+- **Firma de correo:** "Cynthia / Dirección de Arte Publicitaria · Estudio Divú / estudiodivu.art · estudiodivu@gmail.com".
+- **Portal Divú:** en Render (`portal-divu.onrender.com`), código en el repo privado `estudiodivu-ai/portal-divu` (dentro de `portal.zip`). Los cambios los hace Claude; ya no se usa AI Studio.
 - **Cuenta oficial:** estudiodivu@gmail.com (Gmail, Calendar, Drive).
 - **Etapa:** por ahora estamos en **fase de creación**.
 
