@@ -63,7 +63,7 @@ Si hay más de 3, pones los 3 primeros y escribes "+N más abajo".
 
 1. Estándar: 50% al aprobar el brief y 50% antes de entregar finales.
 2. En dos pagos: 25% al aprobar el brief y 25% en máximo 7 días. El lead time corre cuando se completa el 50%.
-3. Por hitos (proyectos high-ticket): 30% al aprobar el brief, 20% al aprobar la dirección y 50% antes de entregar finales.
+3. Por hitos (proyectos high-ticket): 30% al aprobar el brief (el lead time corre con este 30%), 20% al aprobar la dirección y 50% antes de entregar finales.
 
 ## Registro de tiempo del Consejo
 
